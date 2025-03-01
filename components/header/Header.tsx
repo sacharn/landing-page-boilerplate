@@ -11,10 +11,10 @@ import { CgClose } from "react-icons/cg";
 import { ThemedButton } from "../ThemedButton";
 
 const links = [
-  { label: "特色", href: "#Features" },
-  { label: "服务", href: "#Pricing" },
-  { label: "用户评价", href: "#Testimonials" },
-  { label: "常见问答", href: "#FAQ" },
+  { label: "方寸之间，自有天地", href: "#Features" },
+  { label: "治愈系迷你花园", href: "#Pricing" },
+  { label: "倾听自己的心声", href: "#Testimonials" },
+  { label: "每个都市人都值得拥有会呼吸的角落", href: "#FAQ" },
 ];
 
 const Header = () => {
