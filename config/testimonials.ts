@@ -2,74 +2,67 @@
 export const TestimonialsData = [
   {
     user: {
-      name: "Founder",
-      username: "weijunext",
+      name: "加班党救星",
+      username: "加班党救星",
       image: "/images/users/weijunext.jpeg",
     },
     content:
-      "As a front-end developer, I'm highly satisfied with this landing page template. Editing text and images was very intuitive, and I encountered no technical hurdles throughout the process. The template's responsive design is excellent as well; whether on mobile or desktop, the page layout adapts perfectly. I managed to launch my own product's landing page in just half a day, significantly boosting my efficiency.",
-  },
+      "连续两周凌晨回家，薄荷居然比我还精神！智能灯柱缺水就闪红光，对我这种健忘星人太友好了，现在工牌都挂着自家种的罗勒叶～"  },
   {
     user: {
-      name: "User1",
-      username: "weijunext",
+      name: "租房族狂喜",
+      username: "租房族狂喜",
       image: "/images/users/1.png",
     },
     content:
-      "This template has given me a new perspective on coding. As a backend developer with not much front-end experience, I found this template to be very user-friendly. I could build a professional-looking landing page with hardly any coding required. This not only saved me time but also sparked more interest in front-end development.",
+      "第三次搬家终于不用扔植物！折叠箱塞进行李车直接推走，新室友以为我买的北欧风装饰架，其实拆开就是种植架啊哈哈",
   },
   {
     user: {
-      name: "User2",
-      username: "weijunext",
+      name: "手残党逆袭",
+      username: "手残党逆袭",
       image: "/images/users/2.png",
     },
     content:
-      "As a developer who transitioned from design, I'm impressed with the aesthetic design of this template. It's not only easy to use but also comes with a default design that feels both modern and professional. I made some adjustments to the details to match my brand style, and the entire process was both simple and enjoyable.",
-  },
+      "连仙人掌都能养死的人，居然种出了能吃的芝麻菜！电子保姆卡比男友提醒还准时，每天看监测APP的植物健康分像养电子宠物"  },
   {
     user: {
-      name: "User3",
-      username: "weijunext",
+      name: "朋友圈卷王",
+      username: "朋友圈卷王",
       image: "/images/users/3.png",
     },
     content:
-      "The performance of this template is outstanding, with very fast loading times and SEO-friendly features. As a developer focused on product optimization, I appreciate the high performance and optimization of the template. With simple modifications, I was able to further optimize my landing page, improving the speed at which users can access it. The SEO friendliness of the template also helped my page achieve better rankings in search engines.",
-  },
+      "定制款的荧光蕨+水泥盆组合被赞爆了！季度摄影服务小哥自带补光灯，现在我家庭院成闺蜜打卡点，物业还来问能不能当代言人"  },
   {
     user: {
-      name: "User4",
-      username: "weijunext",
+      name: "新手妈妈必备",
+      username: "新手妈妈必备",
       image: "/images/users/4.png",
     },
     content:
-      "The interactive elements of this template added a lot of fun to my project. I particularly liked the settings for animations and transition effects, which made the browsing experience richer and more dynamic. Adjusting these interactive elements was very straightforward, requiring no deep front-end knowledge, which was very user-friendly for a non-professional front-end developer like me.",
-  },
+      "5岁女儿每天抢着按智能浇水键，听音效能安静半小时！儿童安全锁设计贴心，她现在分得清迷迭香和百里香，比我厨艺知识都丰富"  },
   {
     user: {
-      name: "User5",
-      username: "weijunext",
+      name: "社畜治愈包",
+      username: "社畜治愈包",
       image: "/images/users/5.png",
     },
     content:
-      "This template does a great job with multi-language support, which is crucial for my international project. I was able to easily add different language versions, and the template ensured consistency in layout and design across various languages. This significantly reduced my workload in the localization process and helped me reach global users more quickly.",
-  },
+      "凌晨三点改PPT后摘两颗草莓，比任何解压玩具都管用！没想到299套餐送的种子盲盒能种出蓝色雏菊，工位瞬间变治愈角"  },
   {
     user: {
-      name: "User6",
-      username: "weijunext",
+      name: "养生党实测",
+      username: "养生党实测",
       image: "/images/users/4.png",
     },
     content:
-      "The interactive elements of this template added a lot of fun to my project. I particularly liked the settings for animations and transition effects, which made the browsing experience richer and more dynamic. Adjusting these interactive elements was very straightforward, requiring no deep front-end knowledge, which was very user-friendly for a non-professional front-end developer like me.",
-  },
+      "颈椎病被迫抬头看悬挂绿萝，居然缓解酸痛！配套的除醛黄金葛是真有效，检测仪数值两个月降了40%，比空气净化器存在感强"  },
   {
     user: {
-      name: "User7",
-      username: "weijunext",
+      name: "退休族成就",
+      username: "退休族成就",
       image: "/images/users/5.png",
     },
     content:
-      "This template does a great job with multi-language support, which is crucial for my international project. I was able to easily add different language versions, and the template ensured consistency in layout and design across various languages. This significantly reduced my workload in the localization process and helped me reach global users more quickly.",
-  },
+      "28天从种子到沙拉，比广场舞有成就感！养护群里的年轻人教我拍短视频，儿子说我的AI设计套餐比他的星巴克盲盒还酷"  },
 ];

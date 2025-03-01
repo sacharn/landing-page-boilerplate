@@ -11,10 +11,10 @@ import { CgClose } from "react-icons/cg";
 import { ThemedButton } from "../ThemedButton";
 
 const links = [
-  { label: "Features", href: "#Features" },
-  { label: "Pricing", href: "#Pricing" },
-  { label: "Testimonials", href: "#Testimonials" },
-  { label: "FAQ", href: "#FAQ" },
+  { label: "特色", href: "#Features" },
+  { label: "服务", href: "#Pricing" },
+  { label: "用户评价", href: "#Testimonials" },
+  { label: "常见问答", href: "#FAQ" },
 ];
 
 const Header = () => {
@@ -35,7 +35,7 @@ const Header = () => {
           >
             <Image
               alt="Logo"
-              src="/logo.svg"
+              src="/logo.svg"/* 网站左上角图标，原来用的svg格式*/
               className="w-8 h-8"
               width={32}
               height={32}

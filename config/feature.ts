@@ -1,6 +1,6 @@
 import { LucideIcon, MagnetIcon } from "lucide-react";
 import { IconType } from "react-icons";
-import { BsGithub } from "react-icons/bs";
+import { BsGift } from "react-icons/bs";
 import { FaToolbox } from "react-icons/fa";
 import { FaEarthAsia, FaMobileScreenButton } from "react-icons/fa6";
 import { MdCloudUpload } from "react-icons/md";
@@ -9,7 +9,7 @@ export const FEATURES_EN = [
   {
     title: "Open Source Advantage",
     content: "Completely free with a wealth of customization options.",
-    icon: BsGithub,
+    icon: BsGift,
   },
   {
     title: "Responsive Design",
@@ -45,33 +45,33 @@ export const FEATURES_EN = [
 
 export const FEATURES_ZH = [
   {
-    title: "开源优势",
-    content: "完全免费，提供丰富的自定义选项。",
-    icon: BsGithub,
+    title: "空间零门槛",
+    content: "0.3㎡即可打造立体花园，窗台/书桌等碎片空间秒变植物剧场",
+    icon: BsGift,
   },
   {
-    title: "响应式设计",
-    content: "精心设计的模板，确保在任何设备上都能优化显示。",
+    title: "智能省心",
+    content: "智能水培系统自动监测湿度光照，养护耗时仅为刷两条短视频的时间",
     icon: FaMobileScreenButton,
   },
   {
-    title: "易于定制",
-    content: "轻松更改颜色、字体和布局，无需任何编码知识。",
-    icon: FaToolbox,
-  },
-  {
-    title: "SEO优化",
-    content: "构建模板时考虑到搜索引擎优化，增强网站的可发现性。",
-    icon: MagnetIcon,
-  },
-  {
-    title: "一键部署",
-    content: "与领先的网站托管服务紧密集成，实现即时网站发布。",
+    title: "杀手也养不死",
+    content: "12级抗造植物+电子保姆卡，浇水过量自动排水，出差7天不枯萎",
     icon: MdCloudUpload,
   },
   {
-    title: "全球化支持",
-    content: "支持多种语言，让你的网站吸引全球受众。",
+    title: "搬家拎着走",
+    content: "模块化组件5分钟拆装，折叠后塞进行李箱，租房党不再断舍离绿植",
+    icon: FaToolbox,
+  },
+  {
+    title: "毒抗美学",
+    content: "北欧风金属架+水泥盆工业感设计，植物背景板自带补光灯，朋友圈点赞率提升60%",
+    icon: MagnetIcon,
+  },
+  {
+    title: "即种即收",
+    content: "28天速生沙拉套餐，现摘迷迭香配牛排，阳台米其林体验",
     icon: FaEarthAsia,
   },
 ];
@@ -80,7 +80,7 @@ export const FEATURES_JA = [
   {
     title: "オープンソースの利点",
     content: "完全無料で、豊富なカスタマイズオプションを提供。",
-    icon: BsGithub,
+    icon: BsGift,
   },
   {
     title: "レスポンシブデザイン",
@@ -113,7 +113,7 @@ export const FEATURES_AR = [
   {
     title: "ميزة المصدر المفتوح",
     content: "مجانية بالكامل مع ثروة من خيارات التخصيص.",
-    icon: BsGithub,
+    icon: BsGift,
   },
   {
     title: "تصميم متجاوب",
@@ -146,7 +146,7 @@ export const FEATURES_ES = [
   {
     title: "Ventaja del Código Abierto",
     content: "Completamente gratuito con una riqueza de opciones de personalización.",
-    icon: BsGithub,
+    icon: BsGift,
   },
   {
     title: "Diseño Responsivo",
@@ -179,7 +179,7 @@ export const FEATURES_RU = [
   {
     title: "Преимущество Открытого Исходного Кода",
     content: "Полностью бесплатно с широкими возможностями настройки.",
-    icon: BsGithub,
+    icon: BsGift,
   },
   {
     title: "Адаптивный Дизайн",
